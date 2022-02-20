@@ -6,8 +6,8 @@ Starter code for the Android Basics in Kotlin: Add a cake to your Birthday Card 
 
 Introduction
 ------------
-In this codelab, you will create an Android Birthday Card app that displays text, 
-using the Layout Editor in Android Studio.
+In this codelab, I created an Android Birthday Card app that displays text, 
+using the Layout Editor in Android Studio and added an onclick event that displays a new image.
 
 Pre-requisites
 --------------
@@ -21,3 +21,5 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+<img src="Screen Shot 2022-02-20 at 13.01.44.png" /> <img src="Screen Shot 2022-02-20 at 13.01.48.png" />
